@@ -66,3 +66,4 @@
 #   szyfr=szyfr+chr(ord(napis[i])+3)
 # print(napis,szyfr)
 
+
