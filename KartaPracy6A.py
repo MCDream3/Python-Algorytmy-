@@ -45,12 +45,24 @@
 
 #zad 5
 
-m = int(input())
-for i in range(10,20):
-  x = m
-  y = i
-  while y>0:
-    x,y=y, x%y
-    NWD = x
-    if x == 1:
-      print(f"mamy parę :0 : {m},{i}")
+# m = int(input())
+# for i in range(10,20):
+#   x = m
+#   y = i
+#   while y>0:
+#     x,y=y, x%y
+#     NWD = x
+#     if x == 1:
+#       print(f"mamy parę :0 : {m},{i}")
+
+#zad 6
+a = int(input())
+b = int(input())
+x,y = a,b
+while x!=y:
+  if x>y:x-=y
+  if y>x:y-=x 
+c = a//x
+d = b//x
+print(f"{a}/{b}={c}/{d}")
+  
