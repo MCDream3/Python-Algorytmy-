@@ -19,7 +19,7 @@
 # else:
 #   print("no nie")
 
-#zad 3
+#zad 3 - doskonale- dzielniki dodane do siebie daja tą liczbe nie liczac jej samej
 
 # n = int(input())
 # suma = 0
@@ -31,7 +31,7 @@
 # else:
 #   print("you idoit its not")
 
-#zad 4
+#zad 4 - względnie pierwsze- ich nwd = 1
 
 # x = int(input())
 # y = int(input())
