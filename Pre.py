@@ -1,10 +1,10 @@
-#Funkcja ord()-zwraca kod ascii dla danego znaku.
+#<--Funkcja ord()-zwraca kod ascii dla danego znaku.-->
 
 # print(ord("A"))
 # print(ord("B"))
 # print(ord("Z"))
 
-#Funkcja chr()-zwraca znak do danego kodu ascii.
+#<--Funkcja chr()-zwraca znak do danego kodu ascii.-->
 
 # print(chr(65))
 # print(chr(75))
@@ -65,5 +65,3 @@
 # for i in range(len(napis)):
 #   szyfr=szyfr+chr(ord(napis[i])+3)
 # print(napis,szyfr)
-
-

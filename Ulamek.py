@@ -1,3 +1,5 @@
+#sposób liczenia ułamków
+
 a,b,c,d = int(input()),int(input()),int(input()),int(input())
 x = b
 y = d

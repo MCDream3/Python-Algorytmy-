@@ -1,4 +1,4 @@
-#NWD odejmowanie
+#NWD sposobem odejmowania
 # a = int(input())
 # b = int(input())
 # while a!=b:
@@ -11,7 +11,8 @@
 # while b>0:
 #   a,b = b,a%b
 # print (a)
-#NWW odejmowanie
+
+#NWW sposobem odejmowania
 # a = int(input())
 # b = int(input())
 # iloczyn = a*b
@@ -19,6 +20,7 @@
 #   if a > b: a -= b
 #   if b > a: b -= a
 #   print(iloczyn//a)
+
 #NWW modulo :0
 # a = int(input())
 # b = int(input())
