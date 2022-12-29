@@ -67,7 +67,14 @@
 # print(f"{a}/{b}={c}/{d}")
 
 #zad 7
-
+# a = int(input("Licznik: "))
+# b = int(input("Mianownik: "))
+# calosc=a//b
+# reszta=a%b
+# if reszta==0:
+#   print(f"Ulamek niewlasciwy to: {calosc}")
+# else:
+#   print(f"Ulamek niewlasciwy to: {calosc} i {reszta}/{b}")
 #zad 8
 # T = []
 # for i in range(2,10001):
