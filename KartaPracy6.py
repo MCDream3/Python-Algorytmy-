@@ -83,3 +83,5 @@
 # for i in range(1, i <=n):
 #   suma = suma + (3 * i - 1) * Math.pow(-1, i, 1)
 # print(suma)
+
+#To było zrobione w domu ale zweryfikowane na infie
