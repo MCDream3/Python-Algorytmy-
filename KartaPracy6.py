@@ -85,3 +85,23 @@
 # print(suma)
 
 #To było zrobione w domu ale zweryfikowane na infie
+
+#Zad9
+
+n = int(input())
+iloczyn = 1
+for i in range(n):
+  iloczyn *= (2**i)*((-1)**i)
+print(iloczyn)
+
+#Zad10
+n = int(input())
+suma = 1
+for i in range(1, n+1):
+  iloczyn = 1
+  for j in range(1, 1+i):
+    iloczyn*=j
+  suma += iloczyn
+print(suma)
+
+#dalej nie umiem ;-;
