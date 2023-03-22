@@ -124,4 +124,4 @@ elif ile1 < 3 and ile2 > 2:
 elif ile1 > 2 and ile2 < 3:
     print(f"Liczba blizniacza do {n} to tylko liczba {n + 2}")
 else:
-    print("sory ale liczba nie ma blizniakow :(")
+    print("sory ale liczba nie ma blizniakow :(" ")
